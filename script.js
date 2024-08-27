@@ -13,3 +13,4 @@ console.log('está de prova final');
 } else {
     console.log('O aluno foi reprovado');
 }
+calcula_nota_alunos(10,5,3)
